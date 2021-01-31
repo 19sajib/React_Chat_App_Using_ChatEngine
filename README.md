@@ -1,5 +1,6 @@
 [Click Here To See Its Deployed Version](https://sajib-chat-app.netlify.app/)
 # Use username: tester password: 12345678
+[Click Here To See Its Deployed Version](https://sajib-chat-app.netlify.app/)
 
 # Getting Started with Create React App
 
